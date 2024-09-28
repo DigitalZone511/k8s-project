@@ -20,3 +20,5 @@ enabled=1
 nginx version: nginx/1.26.1
 
 6. sudo systemctl start nginx
+
+7. sudo systemctl staus nginx
